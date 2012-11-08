@@ -32,7 +32,7 @@
 <div id="identite">
 
 <h1>Identite</h1>
-<?php echo "salut" ?>
+<?php echo "salut"; ?>
 </div>
 
 <div id="navigation">
@@ -76,6 +76,7 @@
 <div id="contenu">
 
 <h1>Contenu</h1>
+
 
 		<div id ="photo"></div>
 		<form name="form2" method="post" action="">
