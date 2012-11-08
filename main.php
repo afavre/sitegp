@@ -32,7 +32,6 @@
 <div id="identite">
 
 <h1>Identite</h1>
-<?php echo "salut"; ?>
 </div>
 
 <div id="navigation">
