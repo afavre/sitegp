@@ -31,7 +31,7 @@
 
 <div id="identite">
 
-<h1>Nom1</h1>
+<h1>Nom</h1>
 </div>
 
 <div id="navigation">
